@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "Product_name": "Blue Street Sneaker",
+    "Product_image": "/Sneaker2.jpg",
+    "Product_contact": "+251 967472534"
+  },
+  {
+    "id": 2,
+    "Product_name": "White Runner Sneaker",
+    "Product_image": "/snekernew1.jpg",
+    "Product_contact": "+251 987654321"
+  },
+  {
+    "id": 3,
+    "Product_name": "Laptop",
+    "Product_image": "/airpod2.jpg",
+    "Product_contact": "+251 905436787"
+  },
+  {
+    "id": 4,
+    "Product_name": "Nike Dunk Low Sport Wear",
+    "Product_image": "/Nike Sportswear AIR FORCE LOW.jpg",
+    "Product_contact": "+234 34 67677"
+  },
+  {
+    "id": 5,
+    "Product_name": "Laptop",
+    "Product_image": "/laptopdell.jpg",
+    "Product_contact": "+234 34 67677"
+  },
+  {
+    "id": 6,
+    "Product_name": "Laptop",
+    "Product_image": "/laptopdell.jpg",
+    "Product_contact": "+234 34 67677"
+  },
+  {
+    "id": 7,
+    "Product_name": "Nike Dunk Low Sport Wear",
+    "Product_image": "/Nike Sportswear AIR FORCE LOW.jpg",
+    "Product_contact": "+234 34 67677"
+  },
+  {
+    "id": 8,
+    "Product_name": "Nike pair shoe",
+    "Product_image": "/1041464288187185"
+  }
+]
